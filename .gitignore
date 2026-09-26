@@ -2,3 +2,17 @@
 /tmp/
 .DS_Store
 
+# 원본·내부 편집본은 로컬에 보존하고 공개용 사본만 배포한다.
+/docs/*.hwpx
+/docs/최종안.pdf
+/docs/시안/
+/hwp/*.hwpx
+/hwp/*.pdf
+/hwp/*.zip
+/hwp/draft/
+/hwp/render/
+/hwp/시안/
+/hwp/publish/.review*/
+/pic/draft/
+__pycache__/
+*.pyc
